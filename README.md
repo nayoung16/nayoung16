@@ -3,7 +3,7 @@
 <br/>
 <div align='center'>
   🌱 I'm interested in <br/><br/>
-  Data Analysis, Data Engineering <br/> Backend Develop <br/><br/><br/>
+  Data Analysis, Data Engineering <br/> Backend Developing <br/><br/><br/>
   🌱 I'm Learning <br/><br/>
   <img src="https://img.shields.io/badge/SpringBoot-%236DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/><br/>
