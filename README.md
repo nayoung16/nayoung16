@@ -3,7 +3,7 @@
 <br/>
 <div align='left'>
   🌱 I'm interested in <br/><br/>
-  Data Analysis, Data Engineering, Backend Developing <br/><br/><br/>
+  Data Analysis, Data Engineering, Developing Backend <br/><br/><br/>
   🌱 I'm Studying <br/><br/>
   <img src="https://img.shields.io/badge/SpringBoot-%236DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/><br/>
@@ -19,7 +19,7 @@
   <br/>
   <img src="https://img.shields.io/badge/React Native-61DAFB?style=flat-square&logo=React&logoColor=black"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+  
   <br/><br/>
   📫 Contact Me 📫 <br/><br/>
   <img src="https://img.shields.io/badge/snoony1016@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white">
