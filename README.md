@@ -17,14 +17,6 @@
   <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/numpy-4d77cf.svg?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/><br/><br/>
-  
-  
-  <h3 align="center">📚 Studying 📚 </h3>
-
-  <img src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka"/><br/><br/>
-  <br/>
 
   <h3 align="center">📫 Contact Me 📫 </h3>
   <img src="https://img.shields.io/badge/snoony1016@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"><br/>
