@@ -3,7 +3,7 @@
 <br/>
 <div align="center">
   <h3 align="center">🌱 Interested in 🌱</h3>
-  Data Analysis, Data Engineering, Backend <br/><br/>
+  Data Engineering, Backend <br/><br/>
 
   <h3 align="center">✨ Tech Stacks ✨</h3>
   <img src="https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white"/>
