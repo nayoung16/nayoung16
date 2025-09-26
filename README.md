@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/snoony1016@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"><br/>
 </div>
 
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nayoung16)
 
 <!--
 **nayoung16/nayoung16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
