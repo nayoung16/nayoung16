@@ -1,11 +1,13 @@
-## Welcome😄 This is Nayoung's Github
-<br/>
-<br/>
-<div align="center">
-  <h3 align="center">🌱 Interested in 🌱</h3>
-  Data Engineering, Backend <br/><br/>
+## Welcome 😄
+<div>
+  <h3>🎓 Education</h3>
+  Sookmyung Women's University (2021.03 ~)<br>
+  majoring in Computer Science, Big Data
+  
+  <h3>🌱 Interested in</h3>
+  Data Engineering, Backend <br/>
 
-  <h3 align="center">✨ Tech Stacks ✨</h3>
+  <h3>✨ Tech Stacks</h3>
   <img src="https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white"/>
   <img src="https://img.shields.io/badge/SpringBoot-%236DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/><br/>
@@ -18,7 +20,7 @@
   <img src="https://img.shields.io/badge/numpy-4d77cf.svg?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/><br/><br/>
 
-  <h3 align="center">📫 Contact Me 📫 </h3>
+  <h3>📫 Contact Me</h3>
   <img src="https://img.shields.io/badge/snoony1016@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"><br/>
 </div>
 
