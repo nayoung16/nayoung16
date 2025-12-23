@@ -1,8 +1,8 @@
 ## Welcome 😄
 <div>
   <h3>🎓 Education</h3>
-  Sookmyung Women's University (2021.03 ~)<br>
-  majoring in Computer Science, Big Data
+  Sookmyung Women's University (2021.03 ~ 2026.02)<br>
+  Computer Science, Big Data
   
   <h3>🌱 Interested in</h3>
   Data Engineering, Backend <br/>
