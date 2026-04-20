@@ -22,12 +22,7 @@
 
   <h3>📫 Contact Me</h3>
   <img src="https://img.shields.io/badge/snoony1016@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"><br/>
-
-  <br/>
-  <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayoung16&layout=compact&theme=nord&hide_border=true" /></a> 
-  <br/><br/>
   
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=nykim1016)](https://solved.ac/nykim1016)
 </div>
 
 <!--
