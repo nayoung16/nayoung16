@@ -12,7 +12,8 @@ Hi, I'm Backend developer who designs data flow, system architecture, and scalab
 
 **별빛다리 (펫로스 극복 플랫폼)** | 2024.11 ~ 2025.11  
 - 숙명여자대학교 졸업프로젝트
-- 생성형 AI 기반 펫로스 증후군 극복 서비스, 팀장 및 백엔드 개발 담당  
+- 생성형 AI 기반 펫로스 증후군 극복 서비스, 팀장 및 백엔드 개발 담당
+- 별빛다리 v2 운영중 (2026.04 ~ )  
 
 **Campers (캠핑장 추천 서비스)** | 2024.06 ~ 2024.08  
 - PLAYDATA 데이터 엔지니어링 부트캠프 최종 프로젝트
