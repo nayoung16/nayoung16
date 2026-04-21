@@ -24,7 +24,7 @@ Hi, I'm Backend developer who designs data flow, system architecture, and scalab
 
 | 활동 | 기간 | 내용 |
 |------|------|------|
-| Software QA | 2025.02 ~ | 보안컨설팅 회사 개발팀 소속 웹서비스 QA 테스팅 업무 |
+| Software QA | 2026.02 ~ | 보안컨설팅 회사 개발팀 소속 웹서비스 QA 테스팅 업무 |
 | BDD 백엔드 스터디 | 2025.08 ~ | 운영체제·DB 등 CS 학습 및 모의면접 기반 정리 |
 | 우아한테크코스 프리코스 7기 | 2025.10 ~ 2025.11 | 객체지향 설계, 테스트 기반 개발 경험 |
 | Goorm Fullstack Engineer Internship | 2025.07.01 ~ 2025.07.31 | 피드백 대시보드 웹 템플릿 개발 및 사내 공식 템플릿 배포|
