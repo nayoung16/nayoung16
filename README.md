@@ -22,6 +22,7 @@ Hi, I'm Backend developer who designs data flow, system architecture, and scalab
 
 | 활동 | 기간 | 내용 |
 |------|------|------|
+| 프로그래머스 백엔드 단기심화 7기 | 2026.07 ~ 2026.09 |Spring AI와 MSA를 활용한 백엔드 개발 |
 | Software QA | 2026.02 ~ 2026.06 | 보안컨설팅 회사 개발팀 소속 웹서비스 QA 테스팅 업무 |
 | BDD 백엔드 스터디 | 2025.08 ~ | 운영체제·DB 등 CS 학습 및 모의면접 기반 정리 |
 | 우아한테크코스 프리코스 7기 | 2025.10 ~ 2025.11 | 객체지향 설계, 테스트 기반 개발 경험 |
