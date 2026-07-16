@@ -40,7 +40,7 @@ Hi, I'm Backend developer who designs data flow, system architecture, and scalab
 - 제 5회 숙명여자대학교 교내 프로그래밍 경진대회 SMUPC 은상 (6위)
   
 <div>
-  <h3>✨ Tech Stacks</h3>
+  <h2>Tech Stacks</h2>
   <img src="https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white"/>
   <img src="https://img.shields.io/badge/SpringBoot-%236DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/><br/>
@@ -52,9 +52,6 @@ Hi, I'm Backend developer who designs data flow, system architecture, and scalab
   <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/numpy-4d77cf.svg?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/><br/><br/>
-
-  <h3>📫 Contact Me</h3>
-  <img src="https://img.shields.io/badge/snoony1016@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"><br/>
   
 </div>
 
